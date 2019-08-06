@@ -1,0 +1,9 @@
+com/example/demo/Timed.class
+com/example/demo/DemoApplication.class
+com/example/demo/Appointment.class
+com/example/demo/RESTController.class
+com/example/demo/ScheduledTasks.class
+com/example/demo/TimedAspect.class
+com/example/demo/AppointmentDao.class
+com/example/demo/Logging.class
+com/example/demo/LoggingAspect.class
